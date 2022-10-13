@@ -1,4 +1,4 @@
-**Quantum computing simulators report**
+#### Quantum computing simulators report
 * [From quantiki](#From-quantiki)
   * [Active simulators](#Active-simulators)
   * [Active simulators with desired feats](#Active-simulators-with-desired-feats)
