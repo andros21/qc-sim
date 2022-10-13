@@ -2,13 +2,14 @@
 
 """qc-sim report generator"""
 
-from bs4 import BeautifulSoup as bs
+import argparse
+import re
+import sys
+import traceback
+
 import pandas as pd
 import requests
-import re
-import argparse
-import traceback
-import sys
+from bs4 import BeautifulSoup as bs
 
 
 def dictify(soup):
