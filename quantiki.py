@@ -97,7 +97,7 @@ if __name__ == "__main__":
             fso.write("# qc-sim\n")
             with open("toc.md", "r") as fsi:
                 fso.write(fsi.read())
-            fso.write(f"### From [quantiki](quantiki_url)\n")
+            fso.write(f"### From [quantiki]({quantiki_url})\n")
             # legend
             with open("legend.md", "r") as fsi:
                 fso.write(fsi.read())
