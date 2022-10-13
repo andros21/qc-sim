@@ -5,7 +5,7 @@
   * [Active simulators with desired feats](#Active-simulators-with-desired-feats)
 * [From internet search](#From-internet-search)
   * [Simulators with desired feats](#Simulators-with-desired-feats)
-### From [quantiki](quantiki_url)
+### From [quantiki](https://www.quantiki.org/wiki/list-qc-simulators)
 **Legend**
 | symbol | meaning |
 | --: | :---|
