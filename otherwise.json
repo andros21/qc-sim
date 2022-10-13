@@ -1,0 +1,35 @@
+[
+    {
+        "name":"pyquil",
+        "cpu":"x",
+        "gpu":"",
+        "qpu":"x",
+        "qudit":"",
+        "status":"active",
+        "lang":"python",
+        "webpage":"https:\/\/github.com\/rigetti\/pyquil",
+        "tags":"righetti,quil,forest,quil-T,qutrit"
+    },
+    {
+        "name":"aws-braket",
+        "cpu":"x!",
+        "gpu":"x!",
+        "qpu":"x",
+        "qudit":"",
+        "status":"active",
+        "lang":"c++/python",
+        "webpage":"https:\/\/github.com\/aws\/amazon-braket-sdk-python",
+        "tags":"amazon,aws-cloud,pennylane-plugin,lightning.gpu"
+    },
+    {
+        "name":"azure-quantum",
+        "cpu":"x",
+        "gpu":"",
+        "qpu":"x",
+        "qudit":"",
+        "status":"active",
+        "lang":"c#/dotnet/python",
+        "webpage":"https:\/\/learn.microsoft.com\/en-us\/azure\/quantum",
+        "tags":"microsoft,azure-cloud,windows"
+    }
+]
